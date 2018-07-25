@@ -1,10 +1,10 @@
 from random import randint
-import timeit
+# import timeit
 
 '''
-Write a function that takes an ordered list of numbers 
-(a list where the elements are in order from smallest to largest) 
-and another number. 
+Write a function that takes an ordered list of numbers
+(a list where the elements are in order from smallest to largest)
+and another number.
 
 The function decides whether or not the given number is inside the list
 and returns (then prints) an appropriate boolean.
@@ -38,9 +38,9 @@ while True:
     else:
         print("Por favor, digite apenas 'S' ou 'N'.")
 
-# ========== Parte 1: busca clássica ========== # 
+# ========== Parte 1: busca clássica ========== #
 
-n = int(input('''Esta é a busca normal! 
+n = int(input('''Esta é a busca normal!
 Descubra se um número inteiro está na lista: \n'''))
 
 def finder(lista, n):
@@ -58,7 +58,7 @@ elif finder(lista, n) == False:  # Se a função retornou False:
 
 print("= * =" * 15)
 
-# ========== Parte 2: laço inteligente ========== # 
+# ========== Parte 2: laço inteligente ========== #
 
 listb = []  # Declarando uma nova lista B
 for j in range(amount):
@@ -67,15 +67,15 @@ for j in range(amount):
 if generate[0] == "S":
     print(f"Lista gerada B: {listb}")
 
-n = int(input('''\nEsta é a busca inteligente! 
+n = int(input('''\nEsta é a busca inteligente!
 Descubra se um número inteiro está na lista: \n'''))
 
 def smartfinder(listb, n):  # Definindo a função.
-    
+
     while len(listb) >= 0:  # Enquanto houver itens na lista, rode:
         mid_len = len(listb) // 2  # mid_len é o índice que está na metade da lista atual
         middle_element = listb[mid_len]  # Item que está na metade da lista
-        
+
         if n == middle_element:  # Quando n for o item central,
             return True  # Retorne True e saia do while
         else:
@@ -83,7 +83,7 @@ def smartfinder(listb, n):  # Definindo a função.
                 listb = listb[0: mid_len]  # Lista B vai de listb[0] até o meio atual
             elif n > middle_element:  # Se n estiver à direita do meio,
                 listb = listb[mid_len:]  # Lista B vai do meio de listb até o último índice.
-        
+
         if len(listb) == 1:  # Quanto e se a lista alcançar 1 item
             if n != listb[0]:  # E se esse item for diferente de n:
                 return False  # Significa que n não pertence à lista
