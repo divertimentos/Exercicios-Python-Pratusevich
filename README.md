@@ -4,9 +4,9 @@ Os exercícios foram criados pela Michele Pratusevich e estão hospedados em htt
 
 ## Lista
 
-Exercício 1:
-Exercício 2:
-Exercício 3:
+Exercício 1: [Character Input](https://github.com/guiemi-learning-center/exercicios-python-pratusevich/blob/master/char_input.py) 🌶
+Exercício 2: Odd Or Even
+Exercício 3: List Less Than Then
 Exercício 4:
 Exercício 5:
 Exercício 6:
