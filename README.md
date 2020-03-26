@@ -4,39 +4,39 @@ Os exercícios foram criados pela Michele Pratusevich e estão hospedados em htt
 
 ## Lista
 
-Exercício 1: [Character Input](https://github.com/guiemi-learning-center/exercicios-python-pratusevich/blob/master/char_input.py) 🌶
-Exercício 2: Odd Or Even
-Exercício 3: List Less Than Then
-Exercício 4:
-Exercício 5:
-Exercício 6:
-Exercício 7:
-Exercício 8:
-Exercício 9:
-Exercício 10:
-Exercício 11:
-Exercício 12:
-Exercício 13:
-Exercício 14:
-Exercício 15:
-Exercício 16:
-Exercício 17:
-Exercício 18:
-Exercício 19:
-Exercício 20:
-Exercício 21:
-Exercício 22:
-Exercício 23:
-Exercício 24:
-Exercício 25:
-Exercício 26:
-Exercício 27:
-Exercício 28:
-Exercício 29:
-Exercício 30:
-Exercício 31:
-Exercício 32:
-Exercício 33:
-Exercício 34:
-Exercício 35:
-Exercício 36:
+* Exercício 1: [Character Input](https://github.com/guiemi-learning-center/exercicios-python-pratusevich/blob/master/char_input.py) 🌶
+* Exercício 2: Odd Or Even
+* Exercício 3: List Less Than Then
+* Exercício 4:
+* Exercício 5:
+* Exercício 6:
+* Exercício 7:
+* Exercício 8:
+* Exercício 9:
+* Exercício 10:
+* Exercício 11:
+* Exercício 12:
+* Exercício 13:
+* Exercício 14:
+* Exercício 15:
+* Exercício 16:
+* Exercício 17:
+* Exercício 18:
+* Exercício 19:
+* Exercício 20:
+* Exercício 21:
+* Exercício 22:
+* Exercício 23:
+* Exercício 24:
+* Exercício 25:
+* Exercício 26:
+* Exercício 27:
+* Exercício 28:
+* Exercício 29:
+* Exercício 30:
+* Exercício 31:
+* Exercício 32:
+* Exercício 33:
+* Exercício 34:
+* Exercício 35:
+* Exercício 36:
